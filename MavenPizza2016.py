@@ -1,6 +1,5 @@
 import pandas as pd
 import re, operator
-from datetime import datetime
 
 def details_csv(df_name:str,df: pd.DataFrame):
 
